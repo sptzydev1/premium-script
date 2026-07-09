@@ -1,1 +1,3 @@
-putra_mahesa1 2d,yanto 5h,riski 30m
+putra_mahesa1 2d
+yanto 5h
+riski 30m
